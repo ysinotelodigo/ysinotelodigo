@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hello
+
+My name is Álvaro Montero, I am from Spain and I am a PhD in Computer Science and Technology.
+
+✨ Currently, I work at Universidad Carlos III de Madrid, Spain.
+
+### Skills
+
+✨ Angular Developer
+✨ Augmented Reality developer
+✨ Arduino Developer (ESP8266, ESP-32)
+✨ Java EE Developer
+✨ Spring Framework
+
+## Contact
+
+You can contact to me using my email or twitter account.
 
 <!--
 **ysinotelodigo/ysinotelodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
